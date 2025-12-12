@@ -117,7 +117,7 @@ const App = () => {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-gray-900">三元维修</h1>
-                <p className="text-sm text-gray-600">澳门专业持证师傅 · 便靓正服务</p>
+                <p className="text-sm text-gray-600">澳门专业持证师傅 · 平靓正服务</p>
               </div>
             </div>
             
@@ -181,7 +181,7 @@ const App = () => {
               <div className="text-center">
                 <Clock className="w-8 h-8 mx-auto mb-2" />
                 <p className="font-bold">响应时间</p>
-                <p>1-2小时内上门</p>
+                <p>數小时内上门</p>
               </div>
               <div className="text-center">
                 <MapPin className="w-8 h-8 mx-auto mb-2" />
